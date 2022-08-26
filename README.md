@@ -1,5 +1,5 @@
 # AMOSTO
-[Mass transfer model](https://github.com/sashahafner/AMOSTO/raw/main/AMOSTO.xlsx) for ammonia loss from animal slurry storage
+[Mass transfer model](https://github.com/sashahafner/AMOSTO/raw/main/AMOSTO.xlsx) for **am**m**o**nia loss from animal slurry **sto**rage
 
 # Summary
 AMOSTO.xlsx is an implementation of a simple spreadsheet model for estimating ammonia volatilization from animal slurry storage structures.
