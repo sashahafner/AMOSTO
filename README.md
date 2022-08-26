@@ -2,7 +2,8 @@
 [Mass transfer model](https://github.com/sashahafner/AMOSTO/raw/main/AMOSTO.xlsx) for **am**m**o**nia loss from animal slurry **sto**rage
 
 # Summary
-AMOSTO.xlsx is an implementation of a simple spreadsheet model for estimating ammonia volatilization from animal slurry storage structures.
+[AMOSTO.xlsx](https://github.com/sashahafner/AMOSTO/raw/main/AMOSTO.xlsx) is a spreadsheet implementation of a simple mass transfer model for estimating ammonia volatilization from animal slurry storage structures.
+It can be used to calculate emission at a monthly resolution based on climate and slurry characteristics.
 The model is described in detail in a forthcoming paper in Biosystems Engineering:
 
 **Sommer, S.G., Hafner, S.D., Laubach, J., van der Weerden, T.J., Leytem, A.B., Pacholski, A. 2022. Model for calculating ammonia emission from stored animal liquid manure. Biosystems Engineering. doi forthcoming.**
