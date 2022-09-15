@@ -12,4 +12,3 @@ The paper can be downloaded [here](https://drive.google.com/file/d/1PTC_YO8lJKsK
 
 The latest version of the model (currently v1.0) can be downloaded [here](https://github.com/sashahafner/AMOSTO/raw/main/AMOSTO.xlsx) or by clicking the file name above.
 Send suggestions or report bugs through the [issues page](https://github.com/sashahafner/AMOSTO/issues).
-Check back soon (early September 2022) for a link to the paper and the first official model release!
