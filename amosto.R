@@ -54,8 +54,10 @@ amosto <- function(
 
   # Monthly loss (kg)
   mm <- jNH3 * days * stor.surf / 1000
+  total = sum(mm)
+  frac <- total / (slurry.prod * TAN) 
 
-  return(list(monthly = mm, total = sum(mm)))
+  return(list(monthly = mm, total = total, frac = frac))
 
 }
 
