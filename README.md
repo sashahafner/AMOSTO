@@ -10,7 +10,7 @@ The model is described in detail in a paper in Biosystems Engineering:
 
 The paper can be downloaded [here](https://drive.google.com/file/d/1PTC_YO8lJKsK_OPswhBvWFYOUVEzKVFc/view?usp=sharing).
 
-The latest version of the model (currently v1.2) can be downloaded [here](https://github.com/sashahafner/AMOSTO/raw/main/AMOSTO.xlsx) or by clicking the file name above.
+The latest version of the model (currently v1.3) can be downloaded [here](https://github.com/sashahafner/AMOSTO/raw/main/AMOSTO.xlsx) or by clicking the file name above.
 For previous versions, see the [releases](https://github.com/sashahafner/AMOSTO/releases).
 Be sure to cite the version number when using this tool!
 Releases are tagged with version numbers and you can also see the version number at the bottom of the "Notes" box in the spreadsheet tool itself:
